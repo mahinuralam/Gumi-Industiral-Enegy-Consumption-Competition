@@ -1,0 +1,28 @@
+Disease ID,Disease,Disease Description,Animal Type
+1,Avian Influenza,"Fever, Sore_throat, Cough, Headache, Muscle_pain, Hard_breathing, Conjunctivitis (the_inner_part_of_th_eyelid).",poultry
+2,Rift Valley fever,"Young lambs and calves develop a Fever, Lethargy, Suddenly_death. Adult sheep and cattle may have Nasal_discharge, Excess_salivation, Anorexia, Diarrhea.",livestock
+3,Bovine tuberculosis,"A chronic bacterial disease. It is an infectious disease among cattle, causing a general state of illness, Pneumonia, Weight_loss, Suddenly_death.",livestock
+4,Lumpy skin ,"An infectious, eruptive, occasionally fatal viral disease of cattle, closely related to the poxviruses.  Spread by biting insects and characterized by Nodules_on_the_skin_and_other_parts_of_the_body, Damage_skin",livestock
+5,Peste des Petits Ruminants,"a viral disease of goats and sheep characterized by Fever, Oral_lesions, Diarrhea, Pneumonia, and sometimes Suddenly_death. That is related to rinderpest, measles and canine distemper.",livestock
+6,Bovine viral diarrhea,"In adults, clinical signs are highly variable. Signs of acute infection include Fever, Lethargy, Anorexi, Eye_secretions, Nasal_discharge, Oral_lesions, Diarrhea ,Reduction_in_production. Chronic infection may lead to signs of mucosal disease.",livestock
+7,Newcastle,"Sneezing, Nasal_discharge, Cough, Diarrhea, Shudder, Drooping_wings, Paralysis, Swelling_of_the_tissues_around_the_eyes_and_the_neck, suddenly_death,  Reduction_in_production.",poultry
+8,Infectious Coryza,"Swollen_head_or_face, Sneezing, Cough, Eye_secretions, Nasal_discharge, Anorexia, Hard_breathing.",poultry
+9,Thrush,"Anorexia, Oral_lesions, Slow_growth, Scaly_eyes, Drooping_wings, Hard_breathing / noisy breathing.  ",poultry
+,Mastitis (bacterial infection),"Abnormal_size_and_hardness_of_the udder, Fever, Milk_color_change.",livestock
+11, Tuberculosis ,"Abscess, Cough, Swollen_lymph_nodes, Increased_heart_rate.",livestock
+12,Bloat,"Flatulence, Excess_salivation, Whining, Anorexia, Vomiting",livestock
+13, Equine encephalomyelitis ,"Fever, Double_vision, Irregular_gait, Shudder, Oral_lesions, Walks_aimlessly.",livestock
+14,Hemorrhagic septicemia ,"Fever, Hard_breathing, Cough, Eye_secretions, Nasal_discharge.",livestock
+15,Brucellosis," Swelling_of_the_testicles_in_males, and occasionally the bacteria localizes in the joints causing arthritis. Fever, Shudder, Anorexia, Sweating, Lethargy,  Muscle_pain in the joints, muscles and, back, Headache.",livestock
+,Sheep Pox," Fever, Damage_skin, Inflammation_of_the_nasal_mucosa, Skin_lesions are seen on wool-free areas, Eye_secretions, Nasal_discharge, Swollen_eyelids, Lethargy, Anorexia, Paralysis.",
+17,Pneumonia,"Fever, Anorexia, Hard_breathing, Eye_secretions, Nasal_discharge, Excess_salivation, Diarrhea.",livestock
+,Foot and mouth disease (FMD),"Fever, Skin_lesions,Damage_Skin, Hard_breathing, Excess_salivation, Oral_lesions.",
+19,Bluetongue,"Fever, Oral_lesions, Hard_breathing, Purple-coloured_tongue, Lameness",livestock
+20,Anaplasmosis ,"Fever, Pale_around_eyes, Lethargy, Weight_loss, Reduction_in_production, Aggressive_behaviour.",livestock
+21,Rabies,"Anorexia, Pruritus, Lameness, Tenesmus, Excess_salivation, Aggressive_behaviour.",livestock
+22,Necrotic enteritis,"Anorexia, Lethargy, Fluffy_feathers, Eyes_closed, Diarrhea.",poultry
+23,Ascarids,"Anorexia, Diarrhea, Slow_growth, Lethargy, Ruffled_feathers, Weight_loss, changes_in_behaviour.",poultry
+24,Avian Pox,"Swollen_eyelids, Eyes_closed, Oral_lesions, Weight_loss, Anorexia.",poultry
+25,,,
+26,,,
+27,,,
