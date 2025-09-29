@@ -36,6 +36,9 @@ Splits the data into training and test sets, ensuring no shuffling to preserve t
 
 ## Results
 
+<img width="1080" height="564" alt="image" src="https://github.com/user-attachments/assets/d05b7663-2d1e-4eaf-87f3-2cffdb90564a" />
+
+
 <img width="1608" height="335" alt="image" src="https://github.com/user-attachments/assets/c0c98076-ff01-485e-86a4-58d3c647722f" />
 
 
